@@ -16,7 +16,7 @@
  *
  */
  
- $localSitePath = "/code2html/class.loadHTML.php?q=";
+ $localSitePath = "/html2html/?q=";
  
  $requestedURL = $_SERVER["REQUEST_URI"]; // ankers will not be in the URI '#'
  
